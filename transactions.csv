@@ -1,4 +1,0 @@
-transaction_id,customer_id,amount,currency,transaction_date
-1001,1,123.45,INR,2025-08-01
-1002,2,250.00,INR,2025-08-02
-1003,1,19.99,INR,2025-08-03
